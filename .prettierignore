@@ -1,9 +1,9 @@
 package.json
 package-lock.json
 _site
-assets/css/just-the-docs-default.scss
-assets/css/just-the-docs-light.scss
-assets/css/just-the-docs-dark.scss
+assets/css/azurecoe-default.scss
+assets/css/azurecoe-light.scss
+assets/css/azurecoe-dark.scss
 assets/js/vendor/lunr.min.js
 assets/js/search-data.json
-assets/js/just-the-docs.js
+assets/js/azurecoe.js
